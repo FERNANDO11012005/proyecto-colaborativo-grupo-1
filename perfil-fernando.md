@@ -15,3 +15,5 @@ Estudio Ingeniería de Software con Inteligencia Artificial en SENATI
 
 # ¿Qué esperas aprender usando GitHub?
 Trabajar en equipo, gestionar ramas y aprender a colaborar en entornos reales de desarrollo.
+
+# agregando ando
