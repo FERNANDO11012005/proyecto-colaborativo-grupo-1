@@ -1,13 +1,13 @@
 # Perfil de Dayana Carrión Espinoza
 
 ¿Quién eres?
-Soy Dayana Carrión.
+Soy Dayana Carrión Espinoza.
 
 ¿Qué estudias?
 Estudio Desarrollo de Software.
 
 Habilidades actuales en programación:
-Conozco lo básico de HTML, CSS, JavaScript, Python, PHP, JAVA, SQL, MySQL y algo de Git y GitHub.
+Conozco lo básico de HTML, CSS, JavaScript, Python, PHP, SQL, JAVA, SQL, MySQL y algo de Git y GitHub.
 
 Experiencias pasadas:
 He realizado algunos proyectos en clase utilizando Visual Studio Code, XAMPP y los lenguajes de programación mencionados anteriormente.
