@@ -1,5 +1,5 @@
 # ¿Quién eres?
-Soy Fernando Alex Tadeo Huamán
+Soy Fernando Tadeo
 
 # ¿Qué estudias?
 Estudio Ingeniería de Software con Inteligencia Artificial en SENATI
