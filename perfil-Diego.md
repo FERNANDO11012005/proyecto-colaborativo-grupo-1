@@ -16,3 +16,7 @@ He trabajado en proyectos académicos y ejercicios colaborativos.
 
 **Qué esperas aprender usando GitHub:**  
 Aprender a trabajar en equipo, manejar versiones, y colaborar como en un entorno profesional.
+
+**motivacional personal**
+
+mi familia
