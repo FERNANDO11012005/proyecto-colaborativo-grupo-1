@@ -2,7 +2,7 @@
 
 ¿Quién eres?
 Soy Dayana Carrión Espinoza.
-rol: progrmadora
+
 
 ¿Qué estudias?
 Estudio Desarrollo de Software.
