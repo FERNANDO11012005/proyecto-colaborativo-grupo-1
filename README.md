@@ -24,7 +24,7 @@ Incluye el uso de comandos básicos, manejo de ramas, control de versiones, solu
 | **Fernando Julca** | - Apoyó con consultas y compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits, resolvió conflictos y añadió su archivo `.md`. |
 | **Diego Galiano**  | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo `.md`. |
 | **Jorge Huillca**  | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo `.md`. |
-| **Dayana Carrión** | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo `.md`. |
+| **Dayana Carrión** | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo.<br>- Usó issues para registrar errores, ideas o dudas, las resolvió y agregó un commit con fixed`.md`. |
 
 ---
 
