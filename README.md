@@ -1,42 +1,51 @@
-﻿# Proyecto colaborativo grupo 1
-#Nombre de integrantes:
--Fernando Tadeo
--Fernando Julca
--Diego Galiano
--Jorge Huillca
--Dayana Carrión
+# Proyecto Colaborativo - Grupo 1
 
+## Integrantes
+- Fernando Tadeo  
+- Fernando Julca  
+- Diego Galiano  
+- Jorge Huillca  
+- Dayana Carrión  
 
-# Descripcion: Este proyecto es un repositorio de práctica grupal donde se desarrollan y resuelven ejercicios de introducción a Git y Git Hub. Incluye el uso de comandos básicos, manejo de ramas, control de versiones, solución de conflictos, y aplicación de etiquetas, todo orientado al fortalecimiento de habilidades en control de versiones distribuidas.
+---
 
-# Que hizo cada uno:
--Fernando Tadeo:
-    *Dirigio el grupo y fue el que creo el repositorio principal (main), ademas de brindar soporte a todos los demas integrantes con sus conocimientos en Git y GitHub.
-    *Creo su rama, agrego commits, resolvio conflictos satisfactoriamente y agrego un archivo .md con su presentación.
--Fernando Julca:
-    *Brindo ayuda con consultas hacia el companero que dirigio el grupo y compartio sus conocimiento en Git y Git Hub.
-    *Creo su rama, agrego commits, resolvio conflictos satisfactoriamente y agrego un archivo .md con su presentación.
--Diego Galiano:
-    *Compartio sus conocimiento en Git y Git Hub.
-    *Creo su rama, agrego commits, agrego un archivo .md con su presentación.
--Jorge Huillca:
-    *Compartio sus conocimiento en Git y Git Hub.
-    *Creo su rama, agrego commits, agrego un archivo .md con su presentación.
--Dayana Carrión:
-    *Compartio sus conocimiento en Git y Git Hub.
-    *Creo su rama, agrego commits, agrego un archivo .md con su presentación.
+## Descripción del Proyecto
 
+Este proyecto es un repositorio de práctica grupal donde se desarrollan y resuelven ejercicios de introducción a Git y GitHub.  
+Incluye el uso de comandos básicos, manejo de ramas, control de versiones, solución de conflictos y aplicación de etiquetas, todo orientado al fortalecimiento de habilidades en control de versiones distribuidas.
 
-    
-# Qué conflictos surgieron y cómo los resolvieron:
-  -Conflicto a la hora de codificar los conflictos en git. Se solucionó
-# Habilidades del grupo:
-  -Colaboración efectiva en un mismo repositorio compartido.
-  -Comunicación clara para coordinar cambios y evitar errores.
-  -Resolución conjunta de conflictos de código (merge conflicts).
-  -Organización de tareas y manejo del tiempo en equipo.
-  -Revisión y validación del código mediante pull requests.
-  -Uso de herramientas colaborativas como Git, GitHub y editores de código.
-  -Responsabilidad compartida en el seguimiento del flujo de trabajo.
-  -Adaptabilidad frente a errores o ajustes en el proyecto.
-# Enlace a GitHub Pages:
+---
+
+## Aportes de Cada Integrante
+
+| Integrante        | Aportes Principales |
+|-------------------|---------------------|
+| **Fernando Tadeo** | - Dirigió el grupo y creó el repositorio principal (`main`).<br>- Brindó soporte técnico en Git y GitHub.<br>- Creó su rama, agregó commits, resolvió conflictos y añadió su archivo `.md`. |
+| **Fernando Julca** | - Apoyó con consultas y compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits, resolvió conflictos y añadió su archivo `.md`. |
+| **Diego Galiano**  | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo `.md`. |
+| **Jorge Huillca**  | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo `.md`. |
+| **Dayana Carrión** | - Compartió conocimientos en Git y GitHub.<br>- Creó su rama, agregó commits y su archivo `.md`. |
+
+---
+
+## Conflictos Surgidos y Solución
+
+- **Problema**: Surgió un conflicto al momento de forzar un conflicto para practicar su resolución.  
+- **Solución**: Se resolvió exitosamente mediante el uso de comandos de fusión (merge), revisión manual del código y compromiso del equipo en entender cómo resolver conflictos en Git.
+
+---
+
+## Habilidades del Grupo
+
+- Colaboración efectiva en un repositorio compartido.  
+- Comunicación clara para coordinar cambios y evitar errores.  
+- Resolución conjunta de conflictos de código (merge conflicts).  
+- Organización de tareas y gestión del tiempo.  
+- Revisión del código mediante _pull requests_.  
+- Uso de herramientas como Git, GitHub y editores de código.  
+- Responsabilidad compartida en el flujo de trabajo.  
+- Adaptabilidad ante errores y ajustes del proyecto.
+
+---
+
+## Enlace a GitHub Pages:
